@@ -1,5 +1,9 @@
 # 🎵 music player Engine 🎵
 
+![Demo Gif](./screen-shot/music-player.gif)
+
+[See it in Action!!](https://daniyalalborz.github.io/music-player/)
+
 This project provides a music player engine designed as a replacement for the default HTML audio controls.  With this player, you can dynamically play, pause, and control your music.
 
 ## Features
