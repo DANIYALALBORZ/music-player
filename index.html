@@ -175,6 +175,7 @@
         function playPauseBtn() {
             if (audio.currentTime >= audio.duration) {
                 audio.currentTime = 0;
+                playing = true;
                 audio.play();
                 playBtn.style.display = 'none';
                 pauseBtn.style.display = 'block';
